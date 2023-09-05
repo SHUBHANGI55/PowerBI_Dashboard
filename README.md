@@ -1,4 +1,5 @@
 # PowerBI_Dashboard
-project1
+project1 
 
-this is end to end powerbi dashboard project
+this is end to end powerbi dashboard basic project
+on walmart dataset
